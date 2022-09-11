@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Chime in theyre natraul habitat#1553",
+        "name": "Sakura Haruno Theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018655579968905267\/images_18.jpeg",
+        "overlay_alpha": 5
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "mention_highlight": 2146271399,
+        "active_channel": -2490290,
+        "accent": -2490290,
+        "statusbar": -2490290,
+        "input_background": -2490290,
+        "blocked_bg": -2490290
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
